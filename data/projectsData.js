@@ -1,19 +1,15 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Simpeka Web Dashboard',
+    description: `simpeka is a web app that is engaged in collecting data used in the TOEFL program at Haluleo universities using Laravel as the main language.`,
+    imgSrc: '/static/images/simpeka.png',
+    href: 'https://simpeka--uptbahasauho.id/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Kedai Booking Web App',
+    description: `Kedai Kilometer App is Booking App for Coffee Shop we are using Next JS and Laravel`,
+    imgSrc: '/static/images/kedai-kilometer.png',
+    href: '/',
   },
 ]
 
